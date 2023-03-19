@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03638e9e.css",
+    "main.js": "/static/js/main.125546d8.js",
+    "static/media/pexels-jonathan-borba-2983101.jpg": "/static/media/pexels-jonathan-borba-2983101.837e3ac2333112fe3ed4.jpg",
+    "static/media/pexels-jonathan-borba-2983102.jpg": "/static/media/pexels-jonathan-borba-2983102.94707d7c5f9669516f22.jpg",
+    "static/media/pexels-horizon-content-3738730.jpg": "/static/media/pexels-horizon-content-3738730.641318931f09ef258bd3.jpg",
+    "static/media/pexels-emre-vonal-7741798.jpg": "/static/media/pexels-emre-vonal-7741798.291109cf145a81b039ae.jpg",
+    "static/media/png-clipart-chef-chef-cartoon-characters-removebg-preview.png": "/static/media/png-clipart-chef-chef-cartoon-characters-removebg-preview.288ea93991ff16bd3d96.png",
+    "index.html": "/index.html",
+    "main.03638e9e.css.map": "/static/css/main.03638e9e.css.map",
+    "main.125546d8.js.map": "/static/js/main.125546d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03638e9e.css",
+    "static/js/main.125546d8.js"
+  ]
+}

@@ -1,0 +1,92 @@
+.reactMeal h2{
+    color: rgb(126, 2, 2);
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.reactMeal{
+    display: flex;
+    height: 100px;
+}
+.reactMeal img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-top: 3px;
+}
+@media (max-width: 1200px) {
+    .reactMeal h2{
+        color: rgb(126, 2, 2);
+        font-size: 40px;
+        font-weight: bold;
+        margin-top: 28px;
+    }
+    .reactMeal img{
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        margin-top: 3px;
+    }
+}
+@media (max-width: 992px) {
+    .reactMeal h2{
+        color: rgb(126, 2, 2);
+        font-size: 40px;
+        font-weight: bold;
+        margin-top: 28px;
+    }
+    .reactMeal img{
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        margin-top: 3px;
+    }
+}
+
+@media (max-width: 768px) {
+    .reactMeal h2{
+        color: rgb(126, 2, 2);
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 35px;
+    }
+    .reactMeal img{
+        width: 80px;
+        height: 100px;
+        object-fit: cover;
+        margin-top: 3px;
+    }
+}
+@media (max-width: 750px){
+    .reactMeal h2{
+        color: rgb(126, 2, 2);
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 40px;
+    }
+    .reactMeal img{
+        width: 90px;
+        height: 100px;
+        object-fit: cover;
+        margin-top: 3px;
+    }
+}
+
+@media (max-width: 600px) {
+    .reactMeal{
+        display: block;
+    }
+    .reactMeal h2{
+        color: rgb(126, 2, 2);
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: -5px;
+        margin-left: 14px;
+    }
+    .reactMeal img{
+        width: 100px;
+        height: 85px;
+        object-fit: cover;
+        margin-top: 1px;
+    }
+}

@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.cardStyle{
+    max-width: 150%;
+    margin: auto;
+    width:90%;
+    background: #fff;
+    color: #000;
+    border-radius: 14px;
+    padding: 20px;
+    padding-left: 30px;
+    border: 1px solid black;
+    transition: all 0.25s ease-out;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+@media (max-width:768px) {
+    .cardStyle:hover{
+        transform: scale(1.05);
+    }
+}
+.cardStyle .img{
+    max-width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -70px;
+}
+.img img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+.nameBox{
+    width: 90%;
+    margin-top: 30px;
+    text-align: center;
+}
+.desc{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.priceForm{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}

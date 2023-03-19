@@ -1,0 +1,171 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.Overlay{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background:  rgba(0, 0, 0, 0.68);
+    z-index: 100;
+    overflow: hidden;
+}
+.Backdrop{
+    position: fixed;
+    top: 20vh;
+    left: 15%;
+    width: 70%;
+    background-color: white;
+    border-radius: 14px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    z-index: 110;
+}
+
+.loginBox{
+    width: 100%;
+    margin: auto;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10px;
+    margin: auto;
+    background: #000;
+    padding-right: 200px;
+}
+
+
+.loginBoxCenter{
+    width: 480px;
+    height: 250px;
+    background: rgb(0, 151, 0);
+    padding-left: 15px;
+    border-radius: 10px;
+}
+@media (max-width: 1200px) {
+    
+.loginBoxCenter{
+    margin-right: -30%;
+}
+}
+@media (max-width: 768px) {
+    .loginBoxCenter{
+        width: 480px;
+        height: 250px;
+        background: rgb(0, 151, 0);
+        padding-left: 15px;
+        border-radius: 10px;
+        margin-left: 10%;
+    }
+}
+
+@media (max-width: 600px) {
+    .loginBoxCenter{
+        max-width: 380px;
+        height: 250px;
+        background: rgb(0, 151, 0);
+        padding-left: 15px;
+        border-radius: 10px;
+        margin-left: 90%;
+    }
+    .loginBoxCenter .btn{
+        width: 500px;
+        margin-top: 10px;
+        justify-content: flex-end;
+        display: flex;
+    }
+}
+.loginBoxCenter input{
+    width: 95%;
+    height: 45px;
+    display: flex;
+    margin-top: 10px;
+    font-size: 20px;
+    border-radius: 12px;
+}
+.loginBoxCenter .btn{
+    width: 97%;
+    margin-top: 10px;
+    justify-content: flex-end;
+    display: flex;
+}
+.loginBoxCenter label{
+    font-size: 22px;
+}
+.loginBoxCenter button{
+    width: 200px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: progress;
+}
+
+
+
+.emailInput input:focus{
+    background-color: #e0d4fd;
+    border: 1px solid #e0d4fd;
+}
+.passwordInput input:focus{
+    background-color: #e0d4fd;
+    border: 1px solid #e0d4fd;
+}
+.errorMsgFocus .emailInput input{
+    background-color: rgb(244, 188, 188);
+}
+.errorMsgFocus .passwordInput input{
+    background-color: rgb(244, 188, 188);
+}
+
+.errorMsgFocus2 .emailInput label{
+    color: rgb(242, 154, 154);
+}
+
+.errorMsgFocus .emailInput label{
+    color: red;
+}
+.errorMsgFocus .passwordInput label{
+    color: red;
+}
+.header{
+    width: 100%;
+    height: 50px;
+    background: rgb(0, 151, 0);
+    text-align: center;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 13px 13px 0px 0px;
+}
+.message{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.button {
+    width: 100%;
+    height: 50px;
+    border-radius: 0px 0px 13px 13px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.button button{
+    width: 100px;
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 17px;
+}

@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.centerCart{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cardBox{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 14px;
+    background-color: #fff;
+    color: #000;
+    border-radius: 14px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    padding: 5px;
+}
+@media (max-width: 600px) {
+    .cardBox{
+        width: 95%;
+        display: block;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        border-radius: 14px;
+        background-color: #fff;
+        color: #000;
+        border-radius: 14px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+        padding: 5px;
+    }
+    .imagesBox img{
+        max-width: 100%;
+        height: 150px;
+        object-fit: cover;
+        border-radius: 14px;
+        background-size: cover;
+    }
+    .buttons{
+        display: flex;
+    }
+}
+.imagesBox img{
+    width: 110%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 14px;
+}
+.namePrice{
+    margin-top: -10px;
+    margin-left: 20px;
+}
+.namePrice h3{
+    margin-bottom: -15px;
+    margin-top: 10px;
+}
+.namePrice h4{
+    margin-top: 20px;
+}
+.namePrice p{
+    width: 80%;
+    margin-top: 10px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.buttons{
+    display: block;
+    width: 70px;
+}
+.buttons button{
+    width: 30px;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+.flexMatch {
+    display: flex;
+    align-items: center;
+    padding-right: 5px;
+}
+.flexMatch button{
+    width: 35px;
+    height: 30px;
+    border: 0;
+}

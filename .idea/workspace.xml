@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5397b98c-9a3b-4f15-9c6d-95de235ae797" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/Images/pexels-alleksana-5949885.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/Images/pexels-chan-walrus-958545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/Images/pexels-ray-piedra-1565982.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/Images/pexels-showcase.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/pexels-rajesh-tp-1633578.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/png-clipart-chef-chef-cartoon-characters-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/css/main.03638e9e.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/css/main.03638e9e.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.125546d8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.125546d8.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.125546d8.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/media/pexels-emre-vonal-7741798.291109cf145a81b039ae.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/media/pexels-horizon-content-3738730.641318931f09ef258bd3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/media/pexels-jonathan-borba-2983101.837e3ac2333112fe3ed4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/media/pexels-jonathan-borba-2983102.94707d7c5f9669516f22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/media/png-clipart-chef-chef-cartoon-characters-removebg-preview.288ea93991ff16bd3d96.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2MuC1stx3phaTNZmLL8n30U32ud" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5397b98c-9a3b-4f15-9c6d-95de235ae797" name="Default Changelist" comment="" />
+      <created>1678607880153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678607880153</updated>
+    </task>
+    <servers />
+  </component>
+</project>
